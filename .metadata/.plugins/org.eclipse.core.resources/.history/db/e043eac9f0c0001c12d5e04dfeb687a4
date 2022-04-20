@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class StudentDatebase {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		int studentNumber;
+		
+		String[] studentName = {" Michael Jackson", "Beyonce Knowles", "Aretha Franklin", "Sean Carter", "Kimberly Jones"};
+		String[] birthDate = {"August 29, 1958", "September 4, 1981", "March 25, 1942", "December 4, 1969", "July 11, 1974"};
+		String[] homeTown = {"Gary, IN", "Houston, TX", "Detroit, MI", "Brooklyn, NY", "Brooklyn, NY"};
+		
+		System.out.println("Welcome to our Java class. Which student would you like to learn more about? (Please enter a number 1-5)");
+		
+		
+		
+
+}
+}
